@@ -1,7 +1,7 @@
 ### First time
 
 1. Create a virtual environment (venv) to isolate dependencies from the whole system.
-`python3 -m venv .venv --upgrade-deps`
+`python3 -m venv .venv`
 
 2. Activate venv like this whenever you want to work on this code.
 `source .venv/bin/activate`
